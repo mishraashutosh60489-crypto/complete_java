@@ -1,4 +1,3 @@
-
 class Rectangle1{
 	public int width;
 	public int length;
