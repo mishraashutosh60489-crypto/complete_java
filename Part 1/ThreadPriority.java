@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+
 
 class ThreadPriority1 extends Thread{
     public ThreadPriority1(String name){
