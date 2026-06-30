@@ -26,6 +26,6 @@ public class ThreadPriority{
         System.out.println(t1.threadId());
         System.out.println(t1.getState());
         System.out.println(t1.getClass());
-
+        System.out.println(Thread.currentThread());
 	}
 }
